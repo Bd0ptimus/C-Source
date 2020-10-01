@@ -1,0 +1,8 @@
+G:\CODER\hoc code C#\CachSuDungTrinhKhoiTaoObject,CachsudungSTATIC\ClassLibrary1\bin\Release\netstandard2.0\ClassLibrary1.deps.json
+G:\CODER\hoc code C#\CachSuDungTrinhKhoiTaoObject,CachsudungSTATIC\ClassLibrary1\bin\Release\netstandard2.0\ClassLibrary1.dll
+G:\CODER\hoc code C#\CachSuDungTrinhKhoiTaoObject,CachsudungSTATIC\ClassLibrary1\bin\Release\netstandard2.0\ClassLibrary1.pdb
+G:\CODER\hoc code C#\CachSuDungTrinhKhoiTaoObject,CachsudungSTATIC\ClassLibrary1\obj\Release\netstandard2.0\ClassLibrary1.AssemblyInfoInputs.cache
+G:\CODER\hoc code C#\CachSuDungTrinhKhoiTaoObject,CachsudungSTATIC\ClassLibrary1\obj\Release\netstandard2.0\ClassLibrary1.AssemblyInfo.cs
+G:\CODER\hoc code C#\CachSuDungTrinhKhoiTaoObject,CachsudungSTATIC\ClassLibrary1\obj\Release\netstandard2.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+G:\CODER\hoc code C#\CachSuDungTrinhKhoiTaoObject,CachsudungSTATIC\ClassLibrary1\obj\Release\netstandard2.0\ClassLibrary1.dll
+G:\CODER\hoc code C#\CachSuDungTrinhKhoiTaoObject,CachsudungSTATIC\ClassLibrary1\obj\Release\netstandard2.0\ClassLibrary1.pdb

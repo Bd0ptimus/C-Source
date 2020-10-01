@@ -1,0 +1,11 @@
+H:\CODER\hoc code C#\get..set\GetSet\bin\Debug\netcoreapp3.0\GetSet.exe
+H:\CODER\hoc code C#\get..set\GetSet\bin\Debug\netcoreapp3.0\GetSet.deps.json
+H:\CODER\hoc code C#\get..set\GetSet\bin\Debug\netcoreapp3.0\GetSet.runtimeconfig.json
+H:\CODER\hoc code C#\get..set\GetSet\bin\Debug\netcoreapp3.0\GetSet.runtimeconfig.dev.json
+H:\CODER\hoc code C#\get..set\GetSet\bin\Debug\netcoreapp3.0\GetSet.dll
+H:\CODER\hoc code C#\get..set\GetSet\bin\Debug\netcoreapp3.0\GetSet.pdb
+H:\CODER\hoc code C#\get..set\GetSet\obj\Debug\netcoreapp3.0\GetSet.csprojAssemblyReference.cache
+H:\CODER\hoc code C#\get..set\GetSet\obj\Debug\netcoreapp3.0\GetSet.AssemblyInfoInputs.cache
+H:\CODER\hoc code C#\get..set\GetSet\obj\Debug\netcoreapp3.0\GetSet.AssemblyInfo.cs
+H:\CODER\hoc code C#\get..set\GetSet\obj\Debug\netcoreapp3.0\GetSet.dll
+H:\CODER\hoc code C#\get..set\GetSet\obj\Debug\netcoreapp3.0\GetSet.pdb

@@ -1,0 +1,13 @@
+G:\CODER\hoc code C#\VirtualVaOverride\VirtualVaOverride\VirtualVaOverride\bin\Debug\netcoreapp3.1\VirtualVaOverride.exe
+G:\CODER\hoc code C#\VirtualVaOverride\VirtualVaOverride\VirtualVaOverride\bin\Debug\netcoreapp3.1\VirtualVaOverride.deps.json
+G:\CODER\hoc code C#\VirtualVaOverride\VirtualVaOverride\VirtualVaOverride\bin\Debug\netcoreapp3.1\VirtualVaOverride.runtimeconfig.json
+G:\CODER\hoc code C#\VirtualVaOverride\VirtualVaOverride\VirtualVaOverride\bin\Debug\netcoreapp3.1\VirtualVaOverride.runtimeconfig.dev.json
+G:\CODER\hoc code C#\VirtualVaOverride\VirtualVaOverride\VirtualVaOverride\bin\Debug\netcoreapp3.1\VirtualVaOverride.dll
+G:\CODER\hoc code C#\VirtualVaOverride\VirtualVaOverride\VirtualVaOverride\bin\Debug\netcoreapp3.1\VirtualVaOverride.pdb
+G:\CODER\hoc code C#\VirtualVaOverride\VirtualVaOverride\VirtualVaOverride\obj\Debug\netcoreapp3.1\VirtualVaOverride.csprojAssemblyReference.cache
+G:\CODER\hoc code C#\VirtualVaOverride\VirtualVaOverride\VirtualVaOverride\obj\Debug\netcoreapp3.1\VirtualVaOverride.AssemblyInfoInputs.cache
+G:\CODER\hoc code C#\VirtualVaOverride\VirtualVaOverride\VirtualVaOverride\obj\Debug\netcoreapp3.1\VirtualVaOverride.AssemblyInfo.cs
+G:\CODER\hoc code C#\VirtualVaOverride\VirtualVaOverride\VirtualVaOverride\obj\Debug\netcoreapp3.1\VirtualVaOverride.csproj.CoreCompileInputs.cache
+G:\CODER\hoc code C#\VirtualVaOverride\VirtualVaOverride\VirtualVaOverride\obj\Debug\netcoreapp3.1\VirtualVaOverride.dll
+G:\CODER\hoc code C#\VirtualVaOverride\VirtualVaOverride\VirtualVaOverride\obj\Debug\netcoreapp3.1\VirtualVaOverride.pdb
+G:\CODER\hoc code C#\VirtualVaOverride\VirtualVaOverride\VirtualVaOverride\obj\Debug\netcoreapp3.1\VirtualVaOverride.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+H:\CODER\hoc code C#\Index\IndexTest\obj\Debug\netcoreapp3.0\IndexTest.csprojAssemblyReference.cache
+H:\CODER\hoc code C#\Index\IndexTest\obj\Debug\netcoreapp3.0\IndexTest.AssemblyInfoInputs.cache
+H:\CODER\hoc code C#\Index\IndexTest\obj\Debug\netcoreapp3.0\IndexTest.AssemblyInfo.cs
+G:\CODER\hoc code C#\Index\IndexTest\bin\Debug\netcoreapp3.0\IndexTest.exe
+G:\CODER\hoc code C#\Index\IndexTest\bin\Debug\netcoreapp3.0\IndexTest.deps.json
+G:\CODER\hoc code C#\Index\IndexTest\bin\Debug\netcoreapp3.0\IndexTest.runtimeconfig.json
+G:\CODER\hoc code C#\Index\IndexTest\bin\Debug\netcoreapp3.0\IndexTest.runtimeconfig.dev.json
+G:\CODER\hoc code C#\Index\IndexTest\bin\Debug\netcoreapp3.0\IndexTest.dll
+G:\CODER\hoc code C#\Index\IndexTest\bin\Debug\netcoreapp3.0\IndexTest.pdb
+G:\CODER\hoc code C#\Index\IndexTest\obj\Debug\netcoreapp3.0\IndexTest.csprojAssemblyReference.cache
+G:\CODER\hoc code C#\Index\IndexTest\obj\Debug\netcoreapp3.0\IndexTest.AssemblyInfoInputs.cache
+G:\CODER\hoc code C#\Index\IndexTest\obj\Debug\netcoreapp3.0\IndexTest.AssemblyInfo.cs
+G:\CODER\hoc code C#\Index\IndexTest\obj\Debug\netcoreapp3.0\IndexTest.csproj.CoreCompileInputs.cache
+G:\CODER\hoc code C#\Index\IndexTest\obj\Debug\netcoreapp3.0\IndexTest.dll
+G:\CODER\hoc code C#\Index\IndexTest\obj\Debug\netcoreapp3.0\IndexTest.pdb
+G:\CODER\hoc code C#\Index\IndexTest\obj\Debug\netcoreapp3.0\IndexTest.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+H:\CODER\hoc code C#\Struct\FirstStruct\bin\Debug\netcoreapp3.0\FirstStruct.exe
+H:\CODER\hoc code C#\Struct\FirstStruct\bin\Debug\netcoreapp3.0\FirstStruct.deps.json
+H:\CODER\hoc code C#\Struct\FirstStruct\bin\Debug\netcoreapp3.0\FirstStruct.runtimeconfig.json
+H:\CODER\hoc code C#\Struct\FirstStruct\bin\Debug\netcoreapp3.0\FirstStruct.runtimeconfig.dev.json
+H:\CODER\hoc code C#\Struct\FirstStruct\bin\Debug\netcoreapp3.0\FirstStruct.dll
+H:\CODER\hoc code C#\Struct\FirstStruct\bin\Debug\netcoreapp3.0\FirstStruct.pdb
+H:\CODER\hoc code C#\Struct\FirstStruct\obj\Debug\netcoreapp3.0\FirstStruct.csprojAssemblyReference.cache
+H:\CODER\hoc code C#\Struct\FirstStruct\obj\Debug\netcoreapp3.0\FirstStruct.AssemblyInfoInputs.cache
+H:\CODER\hoc code C#\Struct\FirstStruct\obj\Debug\netcoreapp3.0\FirstStruct.AssemblyInfo.cs
+H:\CODER\hoc code C#\Struct\FirstStruct\obj\Debug\netcoreapp3.0\FirstStruct.dll
+H:\CODER\hoc code C#\Struct\FirstStruct\obj\Debug\netcoreapp3.0\FirstStruct.pdb

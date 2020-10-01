@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rduvR0lRlNGka+6peoLh0c+cwU3gLFKdgLxZ3l7LXcRaQJfNWbwisLzc33hyw/EgqwEhs8fGqAQ7orTnTNi7jA==",
+  "success": true,
+  "projectFilePath": "G:\\CODER\\hoc code C#\\CachSuDungTrinhKhoiTaoObject,CachsudungSTATIC\\ClassLibrary1\\ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buith\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\buith\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+H:\CODER\hoc code C#\Index\IndexProject\bin\Debug\netcoreapp3.0\IndexProject.exe
+H:\CODER\hoc code C#\Index\IndexProject\bin\Debug\netcoreapp3.0\IndexProject.deps.json
+H:\CODER\hoc code C#\Index\IndexProject\bin\Debug\netcoreapp3.0\IndexProject.runtimeconfig.json
+H:\CODER\hoc code C#\Index\IndexProject\bin\Debug\netcoreapp3.0\IndexProject.runtimeconfig.dev.json
+H:\CODER\hoc code C#\Index\IndexProject\bin\Debug\netcoreapp3.0\IndexProject.dll
+H:\CODER\hoc code C#\Index\IndexProject\bin\Debug\netcoreapp3.0\IndexProject.pdb
+H:\CODER\hoc code C#\Index\IndexProject\obj\Debug\netcoreapp3.0\IndexProject.csprojAssemblyReference.cache
+H:\CODER\hoc code C#\Index\IndexProject\obj\Debug\netcoreapp3.0\IndexProject.AssemblyInfoInputs.cache
+H:\CODER\hoc code C#\Index\IndexProject\obj\Debug\netcoreapp3.0\IndexProject.AssemblyInfo.cs
+H:\CODER\hoc code C#\Index\IndexProject\obj\Debug\netcoreapp3.0\IndexProject.dll
+H:\CODER\hoc code C#\Index\IndexProject\obj\Debug\netcoreapp3.0\IndexProject.pdb

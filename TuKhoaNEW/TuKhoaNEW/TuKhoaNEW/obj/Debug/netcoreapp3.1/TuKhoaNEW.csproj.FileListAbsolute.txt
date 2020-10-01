@@ -1,0 +1,13 @@
+G:\CODER\hoc code C#\TuKhoaNEW\TuKhoaNEW\TuKhoaNEW\bin\Debug\netcoreapp3.1\TuKhoaNEW.exe
+G:\CODER\hoc code C#\TuKhoaNEW\TuKhoaNEW\TuKhoaNEW\bin\Debug\netcoreapp3.1\TuKhoaNEW.deps.json
+G:\CODER\hoc code C#\TuKhoaNEW\TuKhoaNEW\TuKhoaNEW\bin\Debug\netcoreapp3.1\TuKhoaNEW.runtimeconfig.json
+G:\CODER\hoc code C#\TuKhoaNEW\TuKhoaNEW\TuKhoaNEW\bin\Debug\netcoreapp3.1\TuKhoaNEW.runtimeconfig.dev.json
+G:\CODER\hoc code C#\TuKhoaNEW\TuKhoaNEW\TuKhoaNEW\bin\Debug\netcoreapp3.1\TuKhoaNEW.dll
+G:\CODER\hoc code C#\TuKhoaNEW\TuKhoaNEW\TuKhoaNEW\bin\Debug\netcoreapp3.1\TuKhoaNEW.pdb
+G:\CODER\hoc code C#\TuKhoaNEW\TuKhoaNEW\TuKhoaNEW\obj\Debug\netcoreapp3.1\TuKhoaNEW.csprojAssemblyReference.cache
+G:\CODER\hoc code C#\TuKhoaNEW\TuKhoaNEW\TuKhoaNEW\obj\Debug\netcoreapp3.1\TuKhoaNEW.AssemblyInfoInputs.cache
+G:\CODER\hoc code C#\TuKhoaNEW\TuKhoaNEW\TuKhoaNEW\obj\Debug\netcoreapp3.1\TuKhoaNEW.AssemblyInfo.cs
+G:\CODER\hoc code C#\TuKhoaNEW\TuKhoaNEW\TuKhoaNEW\obj\Debug\netcoreapp3.1\TuKhoaNEW.csproj.CoreCompileInputs.cache
+G:\CODER\hoc code C#\TuKhoaNEW\TuKhoaNEW\TuKhoaNEW\obj\Debug\netcoreapp3.1\TuKhoaNEW.dll
+G:\CODER\hoc code C#\TuKhoaNEW\TuKhoaNEW\TuKhoaNEW\obj\Debug\netcoreapp3.1\TuKhoaNEW.pdb
+G:\CODER\hoc code C#\TuKhoaNEW\TuKhoaNEW\TuKhoaNEW\obj\Debug\netcoreapp3.1\TuKhoaNEW.genruntimeconfig.cache

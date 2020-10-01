@@ -1,0 +1,13 @@
+G:\CODER\hoc code C#\TypeConversion\TyprConversion\TyprConversion\bin\Debug\netcoreapp3.1\TyprConversion.exe
+G:\CODER\hoc code C#\TypeConversion\TyprConversion\TyprConversion\bin\Debug\netcoreapp3.1\TyprConversion.deps.json
+G:\CODER\hoc code C#\TypeConversion\TyprConversion\TyprConversion\bin\Debug\netcoreapp3.1\TyprConversion.runtimeconfig.json
+G:\CODER\hoc code C#\TypeConversion\TyprConversion\TyprConversion\bin\Debug\netcoreapp3.1\TyprConversion.runtimeconfig.dev.json
+G:\CODER\hoc code C#\TypeConversion\TyprConversion\TyprConversion\bin\Debug\netcoreapp3.1\TyprConversion.dll
+G:\CODER\hoc code C#\TypeConversion\TyprConversion\TyprConversion\bin\Debug\netcoreapp3.1\TyprConversion.pdb
+G:\CODER\hoc code C#\TypeConversion\TyprConversion\TyprConversion\obj\Debug\netcoreapp3.1\TyprConversion.csprojAssemblyReference.cache
+G:\CODER\hoc code C#\TypeConversion\TyprConversion\TyprConversion\obj\Debug\netcoreapp3.1\TyprConversion.AssemblyInfoInputs.cache
+G:\CODER\hoc code C#\TypeConversion\TyprConversion\TyprConversion\obj\Debug\netcoreapp3.1\TyprConversion.AssemblyInfo.cs
+G:\CODER\hoc code C#\TypeConversion\TyprConversion\TyprConversion\obj\Debug\netcoreapp3.1\TyprConversion.csproj.CoreCompileInputs.cache
+G:\CODER\hoc code C#\TypeConversion\TyprConversion\TyprConversion\obj\Debug\netcoreapp3.1\TyprConversion.dll
+G:\CODER\hoc code C#\TypeConversion\TyprConversion\TyprConversion\obj\Debug\netcoreapp3.1\TyprConversion.pdb
+G:\CODER\hoc code C#\TypeConversion\TyprConversion\TyprConversion\obj\Debug\netcoreapp3.1\TyprConversion.genruntimeconfig.cache

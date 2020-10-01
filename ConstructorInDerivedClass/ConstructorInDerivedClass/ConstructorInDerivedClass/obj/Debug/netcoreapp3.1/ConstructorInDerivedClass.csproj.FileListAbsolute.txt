@@ -1,0 +1,13 @@
+G:\CODER\hoc code C#\ConstructorInDerivedClass\ConstructorInDerivedClass\ConstructorInDerivedClass\bin\Debug\netcoreapp3.1\ConstructorInDerivedClass.exe
+G:\CODER\hoc code C#\ConstructorInDerivedClass\ConstructorInDerivedClass\ConstructorInDerivedClass\bin\Debug\netcoreapp3.1\ConstructorInDerivedClass.deps.json
+G:\CODER\hoc code C#\ConstructorInDerivedClass\ConstructorInDerivedClass\ConstructorInDerivedClass\bin\Debug\netcoreapp3.1\ConstructorInDerivedClass.runtimeconfig.json
+G:\CODER\hoc code C#\ConstructorInDerivedClass\ConstructorInDerivedClass\ConstructorInDerivedClass\bin\Debug\netcoreapp3.1\ConstructorInDerivedClass.runtimeconfig.dev.json
+G:\CODER\hoc code C#\ConstructorInDerivedClass\ConstructorInDerivedClass\ConstructorInDerivedClass\bin\Debug\netcoreapp3.1\ConstructorInDerivedClass.dll
+G:\CODER\hoc code C#\ConstructorInDerivedClass\ConstructorInDerivedClass\ConstructorInDerivedClass\bin\Debug\netcoreapp3.1\ConstructorInDerivedClass.pdb
+G:\CODER\hoc code C#\ConstructorInDerivedClass\ConstructorInDerivedClass\ConstructorInDerivedClass\obj\Debug\netcoreapp3.1\ConstructorInDerivedClass.csprojAssemblyReference.cache
+G:\CODER\hoc code C#\ConstructorInDerivedClass\ConstructorInDerivedClass\ConstructorInDerivedClass\obj\Debug\netcoreapp3.1\ConstructorInDerivedClass.AssemblyInfoInputs.cache
+G:\CODER\hoc code C#\ConstructorInDerivedClass\ConstructorInDerivedClass\ConstructorInDerivedClass\obj\Debug\netcoreapp3.1\ConstructorInDerivedClass.AssemblyInfo.cs
+G:\CODER\hoc code C#\ConstructorInDerivedClass\ConstructorInDerivedClass\ConstructorInDerivedClass\obj\Debug\netcoreapp3.1\ConstructorInDerivedClass.csproj.CoreCompileInputs.cache
+G:\CODER\hoc code C#\ConstructorInDerivedClass\ConstructorInDerivedClass\ConstructorInDerivedClass\obj\Debug\netcoreapp3.1\ConstructorInDerivedClass.dll
+G:\CODER\hoc code C#\ConstructorInDerivedClass\ConstructorInDerivedClass\ConstructorInDerivedClass\obj\Debug\netcoreapp3.1\ConstructorInDerivedClass.pdb
+G:\CODER\hoc code C#\ConstructorInDerivedClass\ConstructorInDerivedClass\ConstructorInDerivedClass\obj\Debug\netcoreapp3.1\ConstructorInDerivedClass.genruntimeconfig.cache

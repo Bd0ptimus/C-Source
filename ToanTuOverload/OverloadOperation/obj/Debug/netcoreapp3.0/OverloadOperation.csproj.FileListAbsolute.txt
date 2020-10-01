@@ -1,0 +1,11 @@
+H:\CODER\hoc code C#\ToanTuOverload\OverloadOperation\bin\Debug\netcoreapp3.0\OverloadOperation.exe
+H:\CODER\hoc code C#\ToanTuOverload\OverloadOperation\bin\Debug\netcoreapp3.0\OverloadOperation.deps.json
+H:\CODER\hoc code C#\ToanTuOverload\OverloadOperation\bin\Debug\netcoreapp3.0\OverloadOperation.runtimeconfig.json
+H:\CODER\hoc code C#\ToanTuOverload\OverloadOperation\bin\Debug\netcoreapp3.0\OverloadOperation.runtimeconfig.dev.json
+H:\CODER\hoc code C#\ToanTuOverload\OverloadOperation\bin\Debug\netcoreapp3.0\OverloadOperation.dll
+H:\CODER\hoc code C#\ToanTuOverload\OverloadOperation\bin\Debug\netcoreapp3.0\OverloadOperation.pdb
+H:\CODER\hoc code C#\ToanTuOverload\OverloadOperation\obj\Debug\netcoreapp3.0\OverloadOperation.csprojAssemblyReference.cache
+H:\CODER\hoc code C#\ToanTuOverload\OverloadOperation\obj\Debug\netcoreapp3.0\OverloadOperation.AssemblyInfoInputs.cache
+H:\CODER\hoc code C#\ToanTuOverload\OverloadOperation\obj\Debug\netcoreapp3.0\OverloadOperation.AssemblyInfo.cs
+H:\CODER\hoc code C#\ToanTuOverload\OverloadOperation\obj\Debug\netcoreapp3.0\OverloadOperation.dll
+H:\CODER\hoc code C#\ToanTuOverload\OverloadOperation\obj\Debug\netcoreapp3.0\OverloadOperation.pdb

@@ -1,0 +1,15 @@
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+G:\CODER\hoc code C#\WPF\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
